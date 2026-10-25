@@ -68,4 +68,3 @@ Build and JavaScript syntax checks pass. The generated seven HTML files (six pag
 The latest Pasted text(3).txt attachment could not be downloaded or extracted. Its contents are unverified; implementation follows the visible six-page brief. The original logo also could not be downloaded and remains the temporary text wordmark. No active vacancies or GSTIN have been invented.
 
 Private publishing was attempted but source synchronization was blocked by network access. No live deployment is claimed.
-

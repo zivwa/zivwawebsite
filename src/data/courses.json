@@ -1,0 +1,156 @@
+[
+  {
+    "id": "fde",
+    "title": "Full Stack Development",
+    "category": "Technology",
+    "tag": "Build end to end",
+    "duration": "3-month program",
+    "description": "From programming fundamentals to a working web application, with guided projects and trainer support.",
+    "modules": [
+      "HTML, CSS & JavaScript",
+      "React and API integration",
+      "Backend development & databases",
+      "Git, testing & deployment"
+    ]
+  },
+  {
+    "id": "python",
+    "title": "Python Development",
+    "category": "Technology",
+    "tag": "Code with confidence",
+    "duration": "Enquire for schedule",
+    "description": "Learn practical Python through structured exercises, problem solving and small applications.",
+    "modules": [
+      "Python fundamentals",
+      "Data structures & files",
+      "APIs & automation",
+      "Practical project"
+    ]
+  },
+  {
+    "id": "java",
+    "title": "Java & Spring Boot",
+    "category": "Technology",
+    "tag": "Build reliable backends",
+    "duration": "Enquire for schedule",
+    "description": "Explore Java, object-oriented programming and the foundations of API development.",
+    "modules": [
+      "Core Java & OOP",
+      "Collections & exceptions",
+      "Spring Boot & REST",
+      "SQL fundamentals"
+    ]
+  },
+  {
+    "id": "salesforce",
+    "title": "Salesforce",
+    "category": "Enterprise platforms",
+    "tag": "Connect business & technology",
+    "duration": "Enquire for schedule",
+    "description": "Understand CRM workflows, Salesforce administration and introductory platform development.",
+    "modules": [
+      "CRM fundamentals",
+      "Objects & data management",
+      "Flows & automation",
+      "Reports & dashboards"
+    ]
+  },
+  {
+    "id": "sap-fico",
+    "title": "SAP FICO",
+    "category": "Enterprise platforms",
+    "tag": "Finance meets enterprise",
+    "duration": "Enquire for schedule",
+    "description": "Build an understanding of financial accounting workflows and the role of SAP in business operations.",
+    "modules": [
+      "Financial accounting overview",
+      "General ledger",
+      "Accounts payable & receivable",
+      "Business process exercises"
+    ]
+  },
+  {
+    "id": "sap-cpi",
+    "title": "SAP CPI / Integration Suite",
+    "category": "Enterprise platforms",
+    "tag": "Connect enterprise systems",
+    "duration": "Enquire for schedule",
+    "description": "Learn cloud integration concepts and how data moves between enterprise applications.",
+    "modules": [
+      "Integration fundamentals",
+      "iFlow concepts",
+      "Adapters & mappings",
+      "Monitoring & troubleshooting"
+    ]
+  },
+  {
+    "id": "ai",
+    "title": "AI & Generative AI",
+    "category": "Technology",
+    "tag": "Explore what comes next",
+    "duration": "Enquire for schedule",
+    "description": "Understand AI foundations and practical generative AI workflows, including responsible use.",
+    "modules": [
+      "AI & machine learning foundations",
+      "Prompt design",
+      "LLM application concepts",
+      "Responsible AI & AGI overview"
+    ]
+  },
+  {
+    "id": "medical-billing",
+    "title": "US Healthcare & Medical Billing",
+    "category": "Industry skills",
+    "tag": "Understand the revenue cycle",
+    "duration": "Enquire for schedule",
+    "description": "Explore the US healthcare revenue cycle, medical billing workflows and process communication.",
+    "modules": [
+      "Healthcare & RCM overview",
+      "Charge entry & payment posting",
+      "AR & denial concepts",
+      "Process communication"
+    ]
+  },
+  {
+    "id": "mortgage",
+    "title": "US Mortgage Fundamentals",
+    "category": "Industry skills",
+    "tag": "Learn industry workflows",
+    "duration": "Enquire for schedule",
+    "description": "An introduction to mortgage terminology, documentation and processing workflows.",
+    "modules": [
+      "Mortgage terminology",
+      "Loan lifecycle",
+      "Documentation basics",
+      "Process quality"
+    ]
+  },
+  {
+    "id": "hr",
+    "title": "HR & Recruitment",
+    "category": "Industry skills",
+    "tag": "Build a career in people",
+    "duration": "Enquire for schedule",
+    "description": "Learn candidate sourcing, screening, coordination and the foundations of recruitment operations.",
+    "modules": [
+      "Sourcing & screening",
+      "Recruitment lifecycle",
+      "Interview coordination",
+      "HR documentation"
+    ]
+  },
+  {
+    "id": "soft-skills",
+    "title": "Communication & Interview Skills",
+    "category": "Career readiness",
+    "tag": "Make your next move",
+    "duration": "Enquire for schedule",
+    "description": "Strengthen professional communication, resume presentation and interview readiness.",
+    "modules": [
+      "Business communication",
+      "Resume preparation",
+      "Interview practice",
+      "Workplace readiness"
+    ]
+  }
+]

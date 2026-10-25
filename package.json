@@ -1,0 +1,12 @@
+{
+  "name": "zivwa-corporate-website",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "ZIVWA corporate website with six pages, course discovery and FAQ assistant",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "start": "node scripts/serve.mjs",
+    "check": "node scripts/check.mjs"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "ZIVWA Global Solutions",
+  "legalName": "ZIVWA Global Solutions Pvt Ltd",
+  "email": "info@zivwaglobalsolutions.com",
+  "careersEmail": "careers@zivwaglobalsolutions.com",
+  "phones": [
+    "8951841657",
+    "9494698354"
+  ],
+  "address": [
+    "Ground Floor, 39/41, 3rd Cross, Ayyappa Layout",
+    "Munekollal, Marathahalli",
+    "Bengaluru, Karnataka, India"
+  ],
+  "logo": null,
+  "logoNote": "Set logo to assets/official-logo.jpg after adding the original artwork in src/assets. The current text wordmark is a temporary fallback, not a recreation of the official logo."
+}
